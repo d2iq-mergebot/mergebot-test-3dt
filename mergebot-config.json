@@ -1,6 +1,5 @@
 {
   "ship-it": true,
-  "integrate-it": true,
-  "test-it": true,
-  "dcos-package-name": "3dt"
+  "integrate": true,
+  "test": true
 }
