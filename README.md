@@ -97,15 +97,4 @@ Start the 3DT health API endpoint:
     Print version.
 </pre>
 
-## Test
-```
-make test
-```
-
-Or from any submodule:
-
-```
-go test
-```
-
-# Test Integrate    
+## Test     
