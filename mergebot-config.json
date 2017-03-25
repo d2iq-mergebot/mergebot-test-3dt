@@ -2,5 +2,10 @@
   "ship-it": true,
   "integrate": true,
   "test": true,
-  "dcos-package-name": "3dt"
+  "dcos-package-name": "3dt",
+  "label": {
+     "enabled": true,
+     "default": "Work In Progress",
+     "pr-creator-can-apply": ["Ready For Review", "Work In Progress"]
+  }}
 }
